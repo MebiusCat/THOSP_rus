@@ -1,3 +1,14 @@
+QDATA:
+  Шрифты на закладку с исследованиями + background
+	FONT43V.dat
+	FONT43V.tab
+	RES01V.DAT
+  Шрифты на закладку с графиком
+	FONT44V.dat	
+	FONT44V.tab
+	
+DATA:	
+
 48920 - Болезни
 37719 - Offer
 14205 - Research
